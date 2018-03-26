@@ -1,0 +1,7 @@
+section.area1 {visibility: hidden; width: 600px ; background-color: #ffff80 ; position: absolute ; font-family: sans-serif ; }
+
+section.area2 {visibility: hidden ; width: 600px ; background-color: #99ff99 ; position: absolute ; font-family: sans-serif ; }
+
+section.area3 {visibility: hidden ; width: 600px ; background-color: #99ddff ; position: absolute ; font-family: sans-serif ; }
+
+h1 {text-align: left ; font-family: sans-serif ; width: 600px ; }
